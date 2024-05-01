@@ -19,14 +19,9 @@ This activity focuses on creating a parallax scrolling effect to build a website
 ## 🚀 Stretch Feature
 - Added a color filter to the section using the ::before pseudo-element, enhancing the visual appeal of the website
 
-## 🛠️ Getting Started
-1. Fork the starter code Repl and open the index.html file.
-2. Write everyone's names at the top of the file in the h1 tags.
-3. Checkpoint 1: Ensure several large images are displayed on the page with a heading at the bottom saying "Nature's Hideout".
-
 ## 🚦 Steps
-1. **Style the Images and Text**: Resize and reorganize the images to fit nicely within the window.
-2. **Create Parallax Animation**: Move the images along with the window as the user scrolls, creating the parallax effect.
+1. **Styled the Images and Text**: Resized and reorganized the images to fit nicely within the window.
+2. **Created Parallax Animation**: Moved the images along with the window as the user scrolls, creating the parallax effect.
 
 
 ## 🎉 Stretch Feature: Color Filter
